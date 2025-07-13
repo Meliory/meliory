@@ -1,5 +1,5 @@
 <h1 align="center">🦋Albert Sánchez (Meliory & Mel)🎸</h1>
-<p>Programador de videojuegos, compositor y escritor</p>
+<p align="center"><i>Programador de videojuegos, compositor y escritor</i></p>
 
 ---
 
@@ -27,11 +27,11 @@ Además, soy administrador del **grupo KILAM**. Un grupo de creación de eventos
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USERNAME)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TU_DISCORD)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu.email@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/TU_INSTAGRAM)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/TU_SPOTIFY)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Meliory)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/283679304255012864)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asanchezsa04@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/albert_sanchez_20)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/creepermola2?si=621a6d7c0dd24190)
 
 </div>
 
@@ -39,6 +39,6 @@ Además, soy administrador del **grupo KILAM**. Un grupo de creación de eventos
 
 <div align="center">
   
-**"La música da alma al código, y el código da vida a la música"** 🎵💻
+🐦 **"Tal vez tengas razón, Flap. Incluso si no soy quien se supone que debo ser, me gusta quién soy ahora"** 🦋
 
 </div>
