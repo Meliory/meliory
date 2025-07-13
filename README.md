@@ -23,7 +23,7 @@ Además, soy administrador del **grupo KILAM**. Un grupo de creación de eventos
 
 ---
 
-## 🤝 ¡Conectemos!
+## 🌍 Redes Sociales
 
 <div align="center">
 
