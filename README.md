@@ -9,7 +9,7 @@
 
 Soy un **programador de videojuegos** y **compositor musical**. Me gusta aprender y ser creativo, programar las cosas que me vienen en mente o plasmar en la música varios significados. Además, de vez en cuando, me gusta escribir alguna historia.
 
-Además, soy administrador del **grupo KILAM**. Un grupo de creación de eventos de Minecraft.
+Además, soy administrador del <a href="https://kilam.net">**grupo KILAM**</a>. Un grupo de creación de eventos de Minecraft.
 
 ---
 
